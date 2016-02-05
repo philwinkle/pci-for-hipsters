@@ -719,6 +719,6 @@ PCI Compliant code (or any standards compliant code) can still be susceptible to
 #[fit] Thank you!
 
 @philwinkle
-github.com/philwinkle
+Slides at github.com/philwinkle/pci-for-hipsters
 
 https://joind.in/16775
